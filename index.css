@@ -10,6 +10,11 @@ i {
     color: gray;
     margin: 0px;
 }
+i:hover {
+    font-size: 100px;
+    color: gray;
+    margin: 0px;
+}
 
 .text-center {
     text-align: center;
@@ -17,4 +22,8 @@ i {
 
 .half-page {
     margin-top: 50%;
+}
+
+a {
+    text-decoration: none;
 }
